@@ -1,0 +1,3 @@
+log.txt
+logs/**/*.log
+!logs/specjalny.log
